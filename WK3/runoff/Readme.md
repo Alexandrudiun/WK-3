@@ -1,2 +1,3 @@
+DINU ALEXANDRU 17 LICEUL TEORETIC OVIDIUS CONSTANTA alexandrudinu04@gmail.com
 # README
 This is a program that implements a runoff voting system, which allows voters to rank candidates in order of preference and eliminates the candidate with the least votes until one candidate has a majority. The program takes in a list of candidates as command line arguments and prompts the user for the number of voters. It then asks each voter to rank the candidates in order of preference. The program calculates the votes for each round and determines the winner by eliminating the candidate with the least votes until one candidate has a majority or a tie occurs.
