@@ -1,3 +1,4 @@
+DINU ALEXANDRU 17 LICEUL TEORETIC OVIDIUS CONSTANTA alexandrudinu04@gmail.com
 # README
 This is a program that implements a plurality voting system, which allows voters to cast a vote for their preferred candidate.
 The program takes in a list of candidates as command line arguments and prompts the user for the number of voters. It then asks each voter to enter the 
